@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1038029580702-kbr67foo4ki10aum2ggst3h5o3qc8vbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaba.gulfexperts",
+            "certificate_hash": "6bd66632e7be6054375d5bd266dac66de97a2381"
+          }
+        },
+        {
           "client_id": "1038029580702-g3p6ir8tgoka6gjp1jdo5gvbq0esf2a8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
