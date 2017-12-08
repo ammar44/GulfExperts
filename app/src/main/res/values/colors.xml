@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="colorBackground">#ef0414</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextHint">#1c9f05</color>
+    <color name="colorInformation" >#7b7b7b</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bg_color">#e8edf3</color>
+    <color name="red">#b56969</color>
+    <color name="blue">#22264b</color>
+    <color name="yellow">#f2b632</color>
+    <color name="shadow">#77BBBBBB</color>
+    <color name="grey">#e5e5e5</color>
+
+    <color name="colorAdvanceSearchBackground" >#38b34b</color>
+    <color name="colorAdvanceSearchButton" >#f05b2a</color>
+
+    <color name="colorSimpleSearchButton" >#38b34b</color>
+    <color name="colorSimpleSearchBackground" >#f05b2a</color>
+
+    <color name="colorAboutUsButton" >#4fcdc4</color>
+    <color name="colorAboutUsBackground" >#126c38</color>
+
+
+    <color name="colorPartnersButton" >#ec1e26</color>
+    <color name="colorPartnersBackground" >#ffdd17</color>
+
+
+
+    <color name="colorAddCVButton" >#ffdd17</color>
+    <color name="colorAddCVBackground" >#804098</color>
+    <color name="colorAddCVBackground2" >#d0d2d3</color>
+
+
+    <color name="colorSponsorsButton" >#faaf41</color>
+    <color name="colorSponsorsBackground" >#02a79d</color>
+
+
+
+    <color name="colorContactUsButton" >#f05b2a</color>
+    <color name="colorContactUsBackground" >#12616e</color>
+    <color name="colorContactUsIcons" >#262626</color>
+    <color name="colorContactUsBackground2" >#d8d9dd</color>
+
+</resources>

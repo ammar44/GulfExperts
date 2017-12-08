@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1038029580702",
+    "firebase_url": "https://gulfexperts-2017.firebaseio.com",
+    "project_id": "gulfexperts-2017",
+    "storage_bucket": "gulfexperts-2017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038029580702:android:34d218186011248e",
+        "android_client_info": {
+          "package_name": "com.example.shaba.gulfexperts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038029580702-g3p6ir8tgoka6gjp1jdo5gvbq0esf2a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaba.gulfexperts",
+            "certificate_hash": "c842ce87f11e4024e97aa5e6dc7193cbb628bc45"
+          }
+        },
+        {
+          "client_id": "1038029580702-hijf75222rpianml4uv6cgk83muc2dj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2mgslBJFgkGYdQH8FbIzJbEvxJ_8Ghws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038029580702-hijf75222rpianml4uv6cgk83muc2dj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

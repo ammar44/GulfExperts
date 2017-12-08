@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shaba.gulfexperts">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Activities.MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Login.activities.RegisterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Login.activities.UsersListActivity"
+            android:screenOrientation="portrait" />
+        <!--<activity-->
+            <!--android:name=".Login.SignInActivity"-->
+            <!--android:label="@string/name_sign_in_activity"-->
+            <!--android:theme="@style/ThemeOverlay.MyNoTitleActivity"></activity>-->
+        <!--<activity-->
+            <!--android:name=".Login.SignInActivityWithDrive"-->
+            <!--android:label="@string/name_sign_in_activity"-->
+            <!--android:theme="@style/ThemeOverlay.MyNoTitleActivity"></activity>-->
+        <!--<activity-->
+            <!--android:name=".Login.IdTokenActivity"-->
+            <!--android:label="@string/name_id_token_activity"-->
+            <!--android:theme="@style/ThemeOverlay.MyNoTitleActivity"></activity>-->
+        <!--<activity-->
+            <!--android:name=".Login.ServerAuthCodeActivity"-->
+            <!--android:label="@string/name_auth_code_activity"-->
+            <!--android:theme="@style/ThemeOverlay.MyNoTitleActivity"></activity>-->
+        <!--<activity-->
+            <!--android:name=".Login.RestApiActivity"-->
+            <!--android:label="@string/name_rest_activity"-->
+            <!--android:theme="@style/ThemeOverlay.MyNoTitleActivity"></activity>-->
+        <activity android:name=".Activities.AdvanceSearchActivity" />
+        <activity android:name=".Activities.SimpleSearchActivity" />
+        <activity android:name=".Activities.AboutUsActivity" />
+        <activity android:name=".Activities.SpnsorsActivity" />
+        <activity android:name=".Activities.AddCVActivity" />
+        <activity android:name=".Activities.ExpertsBooksActivity" />
+        <activity android:name=".Activities.PartnersActivity" />
+        <activity android:name=".Activities.ContactUsActivity" />
+        <activity android:name=".Activities.StatistcsActivity" />
+        <activity android:name=".Activities.ProjectManagerActivity" />
+        <activity android:name=".Activities.AddCV" />
+        <activity
+            android:name=".Activities.AdvanceSearchResult"
+            android:label="@string/title_activity_advance_search_result"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

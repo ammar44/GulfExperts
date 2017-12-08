@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAboutUsBackground"
+    tools:context="com.example.shaba.gulfexperts.Activities.AboutUsActivity"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:paddingBottom="30dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:background="@color/colorText"
+            android:id="@+id/TextView"
+            android:paddingBottom="30dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="the definition:
+
+Is a bibliographic database aimed at monitoring the names of Gulf experts, documenting their scientific and functional progress, and presenting their content in an electronic container to educational institutions, research centers and government agencies with advisory, research and academic needs.
+
+Vision
+
+Building the largest specialized database in the Arabian Gulf, comprising the scientific and functional careers of Gulf experts from all disciplines.
+
+"    />
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
